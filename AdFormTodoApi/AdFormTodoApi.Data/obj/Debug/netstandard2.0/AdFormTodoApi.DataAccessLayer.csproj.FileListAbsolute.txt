@@ -1,0 +1,12 @@
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.deps.json
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.pdb
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Core.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Core.pdb
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.AssemblyInfo.cs
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.csproj.CopyComplete
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.DataAccessLayer.pdb

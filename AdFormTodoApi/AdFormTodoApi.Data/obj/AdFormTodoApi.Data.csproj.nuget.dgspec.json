@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Data\\AdFormTodoApi.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\AdFormTodoApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\AdFormTodoApi.Core.csproj",
+        "projectName": "AdFormTodoApi.Core",
+        "projectPath": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\AdFormTodoApi.Core.csproj",
+        "packagesPath": "C:\\Users\\priyankakapoor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\priyankakapoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Data\\AdFormTodoApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Data\\AdFormTodoApi.Data.csproj",
+        "projectName": "AdFormTodoApi.Data",
+        "projectPath": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Data\\AdFormTodoApi.Data.csproj",
+        "packagesPath": "C:\\Users\\priyankakapoor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\priyankakapoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\AdFormTodoApi.Core.csproj": {
+                "projectPath": "C:\\Users\\priyankakapoor\\Desktop\\ToDoRepo\\AdFormTodoApi\\AdFormTodoApi.Core\\AdFormTodoApi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

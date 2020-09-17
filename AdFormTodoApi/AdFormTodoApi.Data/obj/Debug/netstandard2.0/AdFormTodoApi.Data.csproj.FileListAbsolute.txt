@@ -1,0 +1,12 @@
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Data.deps.json
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Data.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Data.pdb
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Core.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\bin\Debug\netstandard2.0\AdFormTodoApi.Core.pdb
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.csprojAssemblyReference.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.AssemblyInfoInputs.cache
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.AssemblyInfo.cs
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.csproj.CopyComplete
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.dll
+C:\Users\priyankakapoor\Desktop\ToDoRepo\AdFormTodoApi\AdFormTodoApi.Data\obj\Debug\netstandard2.0\AdFormTodoApi.Data.pdb
